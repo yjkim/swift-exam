@@ -1,3 +1,3 @@
-# note-homepwner
+# hello~
 private swift exercise project
 
